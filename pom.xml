@@ -81,9 +81,6 @@
 	  </dependency>
 	 </dependencies>  
    </plugin>
-     
-     
-     
-     </plugins>
-  </build>
+  </plugins>
+ </build>
 </project>
